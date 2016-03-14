@@ -1,0 +1,9 @@
+[general]
+upload=/home/beams/WEB7ID/www/upload
+search_keys_file = /home/beams/WEB7ID/www/assets/search.json
+
+[mongodb]
+dbname = spraydataportal
+
+[keymap]
+Injector Name = injector
